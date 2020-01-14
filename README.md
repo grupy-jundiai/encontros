@@ -1,43 +1,42 @@
-# Grupy Jundiaí-SP - Eventos #
+## GruPy Jundiaí-SP - Eventos
 
 O objetivo desse repositório é divulgar os conteúdos apresentados nos encontros do GruPy Jundiaí.
 
 
-### Lista dos encontros ###
+### Lista dos encontros
 
-1º - Fatec Jundiaí - Dia 13/04/2019
+[1º - Fatec Jundiaí - Dia 13/04/2019](https://github.com/grupy-jundiai/encontros/blob/master/2019/GruPy_13-04_fatec-jdi.md) 
 
-2º - Fatec Jundiaí - Dia 30/11/2019
+[2º - Fatec Jundiaí - Dia 30/11/2019](https://github.com/grupy-jundiai/encontros/blob/master/2019/GruPy_30-11_fatec-jdi.md) 
 
 3º - Data prevista - 03/2020
 
+#### Quem pode palestrar?
 
-### Quem pode palestrar ? ###
+Qualquer pessoa que tenha interesse.
 
-Qualquer pessoa
+#### Como são escolhidas as palestras?
+Algumas semanas antes do evento abrimos o formulário de submissão de palestras no [Speaker Fight](https://speakerfight.com/).
 
-### As palestras são só de Python ? ###
+Quem escolhe as palestras são os próprios participantes através de votação, nessa mesma ferramenta.
 
-Não, você pode palestrar sobre qualquer tema. Quem escolhe as palestras são os próprios participantes através de ferramenta de votação.
+#### As palestras são só de Python?
+Não, você pode submeter palestras sobre qualquer tema.
 
+### Qual é a duração da palestra?
+Entre 25 e 30 minutos.
 
-[Speaker Fight](https://speakerfight.com/)
+### Preciso pagar para ir?
+Não. Os eventos do GruPy-Jundiaí são para a comunidade e são gratuitos.
 
-### Preciso pagar para ir? ###
-
-Não
-
-### Qual tempo da palestra ?? ###
-
-Entre 25 e 30 minutos
-
-
-### Quer participar ? ###
+### Quer participar?
 
 Fique de olho em nossos canais de divulgação para saber sobre esse e outros eventos.
 
 [Grupo do Telegram](https://t.me/grupy_jundiai)
 
-[E-mail : grupy.jundiai@gmail.com](grupy.jundiai@gmail.com)
+[Meetup](http://meetup.com/Grupy-SP)
 
-[MeetUp](http://meetup.com/Grupy-SP)
+### Dúvidas? 
+
+Entre em contato conosco através do email: grupy.jundiai@gmail.com
